@@ -28,6 +28,6 @@ android.accepts_license = True
 
 # ── Permissions (add what you need) ─────────────────────────
 android.permissions = INTERNET
-
+android.java_memory = 2048
 [buildozer]
 log_level = 2
