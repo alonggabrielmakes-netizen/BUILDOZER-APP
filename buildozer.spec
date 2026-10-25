@@ -27,6 +27,7 @@ android.archs = arm64-v8a,armeabi-v7a
 android.accepts_license = True
 
 # ── Permissions (add what you need) ─────────────────────────
+android.accept_sdk_license = True
 android.permissions = INTERNET
 android.java_memory = 2048
 [buildozer]
